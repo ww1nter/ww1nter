@@ -43,7 +43,7 @@
 
 ## 🌎 Contact
 
-* Discord: `ww1nter`
+* Discord: `ww1nterfrombrazil`
 * GitHub: `github.com/ww1nter`
 
 ---
